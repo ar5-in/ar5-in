@@ -1,4 +1,5 @@
-![brand-logo](https://github.com/ar5-in/ar5-in/assets/34926374/a9c415f5-7d44-4fe2-b667-189cee8273de)
-## Arshad Ansari
-### Laravel | WordPress | Full Stack Developer
+![Github](https://github.com/ar5-in/ar5-in/assets/34926374/8a8ae5ba-3f21-4775-8cff-9cebb7925caa)
+
+### Hi, I am Arshad. I am a web designer and developer. I specialize in Laravel and WordPress development.
+
 More info at [ar5.in](https://ar5.in)
